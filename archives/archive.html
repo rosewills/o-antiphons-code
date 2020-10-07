@@ -1,0 +1,99 @@
+---
+layout: page
+headerlink: true
+title:  Archive
+permalink: /archive/
+published: true
+---
+
+<a name="articles"></a>
+<h2><button class="collapsible" id="articles"> Articles</button></h2>
+<div class="content" id="articlesdata">
+{% for category in site.categories %}
+
+	{% capture cat %}{{ category | first }}{% endcapture %}
+	{% if cat == 'Article' %}
+	{% for desc in site.descriptions %}
+		{% if desc.cat == cat %}
+			<p class="desc"><em>{{ desc.desc }}</em></p>
+		{% endif %}
+	{% endfor %}
+	
+	<ul class="posts-list">
+	{% for post in site.categories[cat] %}
+		<li>
+			<strong>
+				<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+			</strong>
+			<span class="post-date">- {{ post.date | date_to_long_string }}</span>
+		</li>
+	{% endfor %}
+	</ul>
+
+		{% if forloop.last == false %}<hr>{% endif %}
+	{% endif %}
+	{% endfor %}
+<br>
+</div>
+
+
+<a name="blogs"></a>
+<h2><button class="collapsible" id="blogs"> Blogs</button></h2>
+<div class="content" id="blogsdata" markdown="1">
+{% for post in site.categories['Blog'] %}
+  {% unless post.next %}
+  <h2 id="{{cat}}">{{ post.date | date: '%B %Y' }}</h2>
+	{% else %}
+	  {% capture year %}{{ post.date | date: '%B %Y' }}{% endcapture %}
+	  {% capture nyear %}{{ post.next.date | date: '%B %Y' }}{% endcapture %}
+	  {% if year != nyear %}
+	  {% if forloop.first == false %}<hr>{% endif %}
+		<h2>{{ post.date | date: '%B %Y' }}</h2>
+	  {% endif %}
+	{% endunless %}
+  <ul class="posts-list">
+    <li>
+      <strong>
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </strong>
+      <span class="post-date">- {{ post.date | date_to_long_string }}</span>
+    </li>
+  </ul>
+{% endfor %}
+<br>
+</div>
+
+<a name="topics"></a>
+<h2 style="font-style: italic;"><button class="collapsible" id="topics"> By Topic</button></h2>
+<div class="content" id="topicsdata" markdown="1">
+{% for category in site.categories %}
+
+	{% capture cat %}{{ category | first }}{% endcapture %}
+	{% if cat != 'Article' and cat != 'Blog' %}
+	<h2 id="{{cat}}">{{ cat | capitalize }}</h2>
+	
+	{% for desc in site.descriptions %}
+		{% if desc.cat == cat %}
+			<p class="desc"><em>{{ desc.desc }}</em></p>
+		{% endif %}
+	{% endfor %}
+	
+	<ul class="posts-list">
+	{% for post in site.categories[cat] %}
+		<li>
+			<strong>
+				<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+			</strong>
+			<span class="post-date">- {{ post.date | date_to_long_string }}</span>
+		</li>
+	{% endfor %}
+	</ul>
+
+		{% if forloop.last == false %}<hr>{% endif %}
+	{% endif %}
+	{% endfor %}
+<br>
+</div>
+
+
+{%- include collapse.html -%}
