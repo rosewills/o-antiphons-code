@@ -1,7 +1,7 @@
-source 'http://rubygems.org'
-
-gem 'rough'
+source 'https://rubygems.org'
+gem 'jekyll'
+gem 'jekyll-archives'
+gem 'jekyll-sitemap'
 gem 'jekyll-paginate'
-gem 'jekyll-geo-pattern'
-gem 'kramdown'
-gem 'jekyll-github-metadata'
+source 'https://rubygems.org'
+gem 'github-pages', group: :jekyll_plugins
