@@ -1,146 +1,23 @@
-# External gems
-# See http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html for making `jekyll archives` work.
-plugins:
-  - jekyll-archives # Sorry, not GitHub pages friendly!
-  - jekyll-sitemap
-  - jekyll-paginate
 
-exclude:
-  - "/vendor/"
-  - "/template/"
-
-# Site settings
-title: Close to Home
-subtitle: "Studies in Recovery"
-email: hiclose2home@gmail.com
-name: Rose Wills
-description: >
-  A resource blog for grieving students.
-# Base URL of site (i.e. /blog). It should always start with a slash,
-# and never end with a slash. Set it to a blank value if hosting at the
-# root of your server.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://rosewills.github.io" # the base hostname & protocol for your site
-cover: ""
-acover: "/assets/art/windowsill.png"
-bcover: ""
-logo:
-future: false
-
-# Build settings
-markdown: kramdown
-paginate: 5
-paginate_path: "/page:num/"
-inter_post_navigation: false
-highlightjs_theme: "monokai-sublime"
-
-# Archive settings (see https://github.com/jekyll/jekyll-archives/)
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-  layout: 'archive'
-  permalinks:
-    category: '/category/:name/'
-    tag: '/tag/:name/'
-
-# Disqus comments
-# disqus_shortname: bencentra
-
-# Google analytics
-# ga_tracking_id: "UA-XXXX-1"
-
-# Category descriptions (for archive pages)
-descriptions:
-  - cat: General
-    desc: "Posts about overall wellness as a grieving student."
-
-  - cat: Grief
-    desc: "On grief as it relates to student life."
-
-  - cat: Anxiety
-    desc: "Managing stress, anxiety, and/or anxiety disorders."
-
-  - cat: Depression
-    desc: "Managing depression as a student."
-
-  - cat: Essays
-    desc: "Personal and/or formal pieces on grief and loss from a student perspective."
-    
-  - cat: Trauma
-    desc: "On the impacts of post-traumatic stress."
-
-# Social icons and sharing options
-#
-# Social settings are used in two places:
-# * In the footer, as links to your personal profiles
-# * After each blog post for sharing widgets
-#
-# Example:
-#
-# social:
-#   - name: Twitter                         # Name of the service
-#     icon: twitter                         # Font Awesome icon to use (minus fa- prefix)
-#     username: "@TheBenCentra"             # (User) Name to display in the footer link
-#     url: https://twitter.com/TheBenCentra # URL of your profile (leave blank to not display in footer)
-#     desc: Follow me on Twitter            # Description to display as link title, etc
-#     share: true                           # Include in the "Share" section of posts
-social:
-
-  - name: SoundCloud
-    icon: soundcloud
-    username:
-    url:
-    desc: Listen to us on SoundCloud
-    share: false
-
-  - name: Tumblr
-    icon: tumblr
-    username:
-    url:
-    desc: Visit our Tumblr
-    share: false
-
-  - name: Twitter
-    icon: twitter
-    username:
-    url:
-    desc: Follow me on Twitter
-    share: true
-
-  - name: LinkedIn
-    icon: linkedin
-    username:
-    url:
-    desc: Connect with me on LinkedIn
-    share: true
-
-  - name: GitHub
-    icon: github
-    username: This website is powered by GitHub Pages.
-    url: https://github.com/rosewills
-    desc: This website is powered by GitHub Pages.
-    share: false
-
-  - name: Reddit
-    icon: reddit
-    username:
-    url:
-    desc: Share to Reddit
-    share: true
+title: My Resume
+url: 'http://junlulocky.com'
+baseurl: '/PanelCV' #change it according to your repository name
 
 
-# Social sharing protocols
-# These are for automatically generating sharing metadata for FB and Twitter
-# OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
-protocols:
-    fb_image: "/assets/logo.png"
-    fb_image_width: 612
-    fb_image_height: 605
-    fb_image_type: "image/png"
 
-    twitter_image: "/assets/logo.png"
+# Profile information
+yourname: Brown Smith  ## put your name
+title: 'GRAPHIC &amp; WEB DESIGNER'  ## your title
+location: San Francisco , CA
 
-    os_repo: "https://github.com/bencentra/centrarium.com"
-    os_rcs_type: "git"
-    os_src: "git@github.com:bencentra/centrarium.com.git"
+
+## Social Profiles
+facebook: http://www.facebook.com  ## your facebook account url
+twitter: http://www.twitter.com  ## your twitter account url
+linkedin: http://www.linkedin.com  ## your linkedin account url
+dribbble: http://www.dribble.com  ## you dribbble account url
+foursquare: http://www.foursquare.com  ## your foursquare account url
+
+
+
+# Update all the sections by editing the files inside _includes folder.
