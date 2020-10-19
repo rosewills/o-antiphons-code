@@ -1,16 +1,16 @@
 # Site settings
-title: Pudhina
+title: Rosemary Wills
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
+  I write about science, mental health, and education.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://rosewills.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Pudhina
-  github: github
-  linkedin: linkedin
-  email: example@email.com
+  fullname: Rosemary Wills
+  github: rosewills
+  linkedin: https://www.linkedin.com/in/rmvwills/
+  email: rmvwills@gmail.com
 
 
 # Syntax highlighting
