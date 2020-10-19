@@ -1,25 +1,26 @@
-<header class="navigation" role="banner">
-  <div class="navigation-wrapper">
-	{% if page.homelink != true %}
-      <a href="{{ site.baseurl }}/" class="textlogo">
-      {{ site.title }}
-    </a>
-	{% else %}
-	
-	{% endif%}
-    <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">
-      <i class="fa fa-bars"></i>
-    </a>
-    <nav role="navigation">
-      <ul id="js-navigation-menu" class="navigation-menu show">
-        {% for page in site.pages %}
-				{% if page.title and page.main_nav != false %}
-				{% if page.headerlink == true %}
-				<li class="nav-link"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-					{% endif %}
-					{% endif %}
-       {% endfor %}
-      </ul>
-    </nav>
-  </div>
+<header class="header">
+<div class="navigation">
+<a href="{{ '/' | prepend: site.baseurl }}" class="logo">{{ site.title }}</a>
+<ul class="menu">
+<li class="menu__entry"><a href="{{ '/resume' | prepend: site.baseurl }}">Resume</a></li>
+<li class="menu__entry"><a href="{{ '/blog' | prepend: site.baseurl }}">Blog</a></li>
+</ul>
+</div>
+<ul class="social-links">
+{% if site.author.email %}
+<a href="mailto:{{ site.author.email }}" class="social-links__entry" target="_blank">
+<i class="fa fa-envelope-square"></i>
+</a>
+{% endif %}
+{% if site.author.github %}
+<a href="https://github.com/{{ site.author.github }}" class="social-links__entry" target="_blank">
+<i class="fa fa-github"></i>
+</a>
+{% endif %}
+{% if site.author.linkedin %}
+<a href="https://in.linkedin.com/in/{{ site.author.linkedin }}" class="social-links__entry" target="_blank">
+<i class="fa fa-linkedin"></i>
+</a>
+{% endif %}
+</ul>
 </header>
