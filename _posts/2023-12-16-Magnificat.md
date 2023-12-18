@@ -2,7 +2,7 @@
 title:  "The Magnificat"
 metadate: "hide"
 ---
-![mary-magnificat.jpg](../assets/images/mary-magnificat.jpg)
+<img src="{{ site.baseurl }}/assets/images/mary-magnificat.jpg" class="drawing" style="width: 30%;">
 
 <p>
 My soul proclaims the greatness of the Lord, <br>

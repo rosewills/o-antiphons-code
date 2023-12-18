@@ -1,18 +1,117 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Studies in Gravity</title>
-    <description>A blog about dealing with grief and loss as a student.
+    <title>O Antiphons</title>
+    <description>This is the home page for the O Antiphons traditionally prayed on the evenings of the week leading up to Christmas (Dec. 17-23). One verse per night is prayed/sung before and after the Magnificat during evening Vespers.
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 17 Dec 2023 21:17:58 -0500</pubDate>
-    <lastBuildDate>Sun, 17 Dec 2023 21:17:58 -0500</lastBuildDate>
+    <pubDate>Sun, 17 Dec 2023 22:27:25 -0500</pubDate>
+    <lastBuildDate>Sun, 17 Dec 2023 22:27:25 -0500</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
+        <title>O Wisdom</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/O_Sapientia.png&quot; class=&quot;drawing&quot; style=&quot;width: 30%;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;day-1-antiphon&quot;&gt;Day 1 Antiphon&lt;/h3&gt;
+
+&lt;p&gt;O Wisdom of our God Most High,&lt;br /&gt;
+guiding creation with power and love:&lt;br /&gt;
+come to teach us the path of knowledge!&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;traditional&quot;&gt;Traditional&lt;/h3&gt;
+
+&lt;p&gt;O Wisdom, coming forth from the mouth of the Most High, reaching from end to end, mightily and sweetly ordering all things: come and teach us the way of prudence.&lt;/p&gt;
+
+&lt;h3 id=&quot;latin-o-sapientia&quot;&gt;Latin: O Sapientia&lt;/h3&gt;
+
+&lt;p&gt;O Sapientia, quae ex ore Altissimi prodiisti, attingens a fine usque ad finem, fortiter suaviterque disponens omnia: veni ad docendum nos viam prudentiae.&lt;/p&gt;
+
+&lt;h3 id=&quot;hymn&quot;&gt;Hymn&lt;/h3&gt;
+
+&lt;p&gt;O come, thou Wisdom from on high, &lt;br /&gt;
+Who orders all things mightily; &lt;br /&gt;
+To us the path of knowledge show, &lt;br /&gt;
+And teach us in her ways to go. &lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;
+Rejoice! Rejoice! Emmanuel &lt;br /&gt;
+Shall come to thee, O Israel! &lt;br /&gt;
+
+&lt;p&gt;
+&lt;div&gt;
+      &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Ley1aOPDHCE?si=3uX-RX3AJSqeBKIn&amp;amp;start=72&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+      &lt;h3 id=&quot;isaiah-112-3&quot;&gt;Isaiah 11:2-3&lt;/h3&gt;
+
+      &lt;p&gt;The spirit of the LORD shall rest upon him:&lt;br /&gt;
+a spirit of wisdom and of understanding,&lt;br /&gt;
+A spirit of counsel and of strength,&lt;br /&gt;
+a spirit of knowledge and of fear of the LORD,&lt;br /&gt;
+and his delight shall be the fear of the LORD.&lt;br /&gt;&lt;/p&gt;
+
+      &lt;h3 id=&quot;sirach-241-3&quot;&gt;Sirach 24:1-3&lt;/h3&gt;
+
+      &lt;p&gt;Wisdom sings her own praises,&lt;br /&gt;
+among her own people she proclaims her glory.&lt;br /&gt;
+In the assembly of the Most High she opens her mouth,&lt;br /&gt;
+in the presence of his host she tells of her glory:&lt;br /&gt;
+“From the mouth of the Most High I came forth,&lt;br /&gt;
+and covered the earth like a mist.”&lt;br /&gt;&lt;/p&gt;
+
+      &lt;h3 id=&quot;wisdom-81&quot;&gt;Wisdom 8:1&lt;/h3&gt;
+
+      &lt;p&gt;Indeed, she spans the world from end to end mightily&lt;br /&gt;
+and governs all things well.&lt;br /&gt;&lt;/p&gt;
+
+    &lt;/div&gt;
+&lt;/p&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 17 Dec 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2023/12/17/Sapientia_Wisdom.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/12/17/Sapientia_Wisdom.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Magnificat</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/mary-magnificat.jpg&quot; class=&quot;drawing&quot; style=&quot;width: 30%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+My soul proclaims the greatness of the Lord, &lt;br /&gt;
+my spirit rejoices in God my Savior, &lt;br /&gt;
+for he has looked with favor on his lowly servant. &lt;br /&gt;
+From this day all generations will call me blessed: &lt;br /&gt;
+the Almighty has done great things for me, &lt;br /&gt;
+and holy is his Name. &lt;br /&gt;
+He has mercy on those who fear him  &lt;br /&gt;
+in every generation. &lt;br /&gt;
+He has shown the strength of his arm, &lt;br /&gt;
+he has scattered the proud in their conceit. &lt;br /&gt;
+He has cast down the mighty from their thrones, &lt;br /&gt;
+and has lifted up the lowly. &lt;br /&gt;
+He has filled the hungry with good things, &lt;br /&gt;
+and the rich he has sent away empty. &lt;br /&gt;
+He has come to the help of his servant Israel &lt;br /&gt;
+for he has remembered his promise of mercy, &lt;br /&gt;
+the promise he made to our fathers, &lt;br /&gt;
+to Abraham and his children forever. &lt;br /&gt;
+&lt;p&gt;
+Glory to the Father and to the Son and to the Holy Spirit, &lt;br /&gt;
+as it was in the beginning, is now, and will be forever. Amen. &lt;br /&gt;
+&lt;/p&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 16 Dec 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2023/12/16/Magnificat.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/12/16/Magnificat.html</guid>
+        
+        
+      </item>
+    
+      <item>
         <title>O Emmanuel</title>
-        <description>&lt;p&gt;&lt;img src=&quot;../assets/images/O_Emmanuel.png&quot; alt=&quot;O_Emmanuel.png&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/O_Emmanuel.png&quot; class=&quot;drawing&quot; style=&quot;width: 30%;&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;day-7-antiphon&quot;&gt;Day 7 Antiphon&lt;/h3&gt;
 
@@ -48,19 +147,15 @@ Shall come to you, O Israel. &lt;br /&gt;
 &lt;/p&gt;&lt;/p&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 23 Nov 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/day%207/magnificat/2023/11/23/Emmanuel.html</link>
-        <guid isPermaLink="true">http://localhost:4000/day%207/magnificat/2023/11/23/Emmanuel.html</guid>
+        <link>http://localhost:4000/2023/11/23/Emmanuel.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/11/23/Emmanuel.html</guid>
         
-        
-        <category>Day 7</category>
-        
-        <category>Magnificat</category>
         
       </item>
     
       <item>
         <title>O Desire of Nations</title>
-        <description>&lt;p&gt;&lt;img src=&quot;../assets/images/O_Rex.png&quot; alt=&quot;O_Rex.png&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/O_Rex.png&quot; class=&quot;drawing&quot; style=&quot;width: 30%;&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;day-6-antiphon&quot;&gt;Day 6 Antiphon&lt;/h3&gt;
 
@@ -108,19 +203,15 @@ Shall come to you, O Israel. &lt;br /&gt;
 &lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 22 Nov 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/day%206/magnificat/2023/11/22/Rex-Desire.html</link>
-        <guid isPermaLink="true">http://localhost:4000/day%206/magnificat/2023/11/22/Rex-Desire.html</guid>
+        <link>http://localhost:4000/2023/11/22/Rex-Desire.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/11/22/Rex-Desire.html</guid>
         
-        
-        <category>Day 6</category>
-        
-        <category>Magnificat</category>
         
       </item>
     
       <item>
         <title>O Rising Dawn</title>
-        <description>&lt;p&gt;&lt;img src=&quot;../assets/images/O_Oriens.png&quot; alt=&quot;O_Oriens.png&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/O_Oriens.png&quot; class=&quot;drawing&quot; style=&quot;width: 30%;&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;day-5-antiphon&quot;&gt;Day 5 Antiphon&lt;/h3&gt;
 
@@ -139,10 +230,10 @@ shadow of death.&lt;/p&gt;
 
 &lt;h3 id=&quot;hymn&quot;&gt;Hymn&lt;/h3&gt;
 
-&lt;p&gt;O come, O Dayspring from on high &lt;br /&gt;
-And cheer us by your drawing nigh; &lt;br /&gt;
-Disperse the gloomy clouds of night, &lt;br /&gt;
-And death’s dark shadow put to flight. &lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;O come, thou Dayspring, come and cheer&lt;br /&gt;
+Our spirits by thine advent here;&lt;br /&gt;
+Disperse the gloomy clouds of night,&lt;br /&gt;
+And death’s dark shadows put to flight.&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;
 Rejoice! Rejoice! Emmanuel &lt;br /&gt;
 Shall come to you, O Israel. &lt;br /&gt;
@@ -159,22 +250,81 @@ Shall come to you, O Israel. &lt;br /&gt;
 &lt;p&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/wChcSctWNcE?si=W9Mqmv_7S_lug1Eo&amp;amp;start=606&amp;amp;end=940&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;
+
+### Isaiah 9:1-2
+
+The people who walked in darkness &lt;br /&gt;
+
+have seen a great light; &lt;br /&gt;
+
+Upon those who lived in a land of gloom &lt;br /&gt;
+
+a light has shone. &lt;br /&gt;
+
+You have brought them abundant joy &lt;br /&gt;
+
+and great rejoicing. &lt;br /&gt;
+
+### John 1:5
+
+The light shines in the darkness, &lt;br /&gt;
+
+and the darkness has not overcome it. &lt;br /&gt;
+
+
+### Canticle of Zechariah (Luke 1:78-79)
+
+In the tender mercy of our God &lt;br /&gt;
+
+the dawn from on high shall break upon us, &lt;br /&gt;
+
+to shine on those who dwell in darkness and the shadow of death, &lt;br /&gt;
+
+to guide our feet into the way of peace. &lt;br /&gt;
+
+### Psalm 23:4
+
+Even though I walk through the valley of the shadow of death, &lt;br /&gt;
+
+I will fear no evil, for you are with me; &lt;br /&gt;
+
+your rod and your staff comfort me. &lt;br /&gt;
+
+### Malachi 3:20
+
+But for you who fear my name, the Sun of Justice &lt;br /&gt;
+
+will arise with healing in its wings; &lt;br /&gt;
+
+And you will go out leaping like calves from the stall. &lt;br /&gt;
+
+
+### Creator of the Stars of Night
+
+Come in your holy might, we pray, &lt;br /&gt;
+
+Redeem us for eternal day; &lt;br /&gt;
+
+Defend us while we dwell below &lt;br /&gt;
+
+From all assaults of our dread foe. &lt;br /&gt;
+
+&lt;p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/zibWoP4RJ14?si=GkBEHFgU7ylDAUqw&amp;amp;start=126&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 21 Nov 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/day%205/magnificat/2023/11/21/Oriens-Dayspring.html</link>
-        <guid isPermaLink="true">http://localhost:4000/day%205/magnificat/2023/11/21/Oriens-Dayspring.html</guid>
+        <link>http://localhost:4000/2023/11/21/Oriens-Dayspring.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/11/21/Oriens-Dayspring.html</guid>
         
-        
-        <category>Day 5</category>
-        
-        <category>Magnificat</category>
         
       </item>
     
       <item>
         <title>O Key of David</title>
-        <description>&lt;p&gt;&lt;img src=&quot;../assets/images/O_Clavis.png&quot; alt=&quot;O_Clavis.png&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/O_Clavis.png&quot; class=&quot;drawing&quot; style=&quot;width: 30%;&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;day-4-antiphon&quot;&gt;Day 4 Antiphon&lt;/h3&gt;
 
@@ -204,25 +354,59 @@ Shall come to you, O Israel. &lt;br /&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7xtpJ4Q_Q-4?si=ChVxzBzuhuy6OKde&amp;amp;start=137&amp;amp;end=176&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
+&lt;p&gt;
+
+### Isaiah 22:22
+
+I will place the key of the House of David on his shoulder;&lt;br /&gt;
+
+what he opens, no one will shut,&lt;br /&gt;
+
+what he shuts, no one will open.&lt;br /&gt;
+
+### Revelation 3:7-8
+
+&quot;The holy one, the true,&lt;br /&gt;
+
+who holds the key of David,&lt;br /&gt;
+
+who opens and no one shall close,&lt;br /&gt;
+
+who closes and no one shall open,&lt;br /&gt;
+
+says this:&lt;br /&gt;
+
+&apos;I know your works (behold, I have left an open door before you, which no one can close).&apos;&quot;&lt;br /&gt;
+
+### Psalm 27:4
+
+One thing I ask of the LORD;&lt;br /&gt;
+
+this I seek:&lt;br /&gt;
+
+To dwell in the LORD&apos;s house&lt;br /&gt;
+
+all the days of my life,&lt;br /&gt;
+
+To gaze on the LORD&apos;s beauty,&lt;br /&gt;
+
+to visit his temple.&lt;br /&gt;
 
 
 
-&lt;/p&gt;&lt;/p&gt;
+
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 20 Nov 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/day%204/magnificat/2023/11/20/Clavis-Key-of-David.html</link>
-        <guid isPermaLink="true">http://localhost:4000/day%204/magnificat/2023/11/20/Clavis-Key-of-David.html</guid>
+        <link>http://localhost:4000/2023/11/20/Clavis-Key-of-David.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/11/20/Clavis-Key-of-David.html</guid>
         
-        
-        <category>Day 4</category>
-        
-        <category>Magnificat</category>
         
       </item>
     
       <item>
         <title>O Root of Jesse</title>
-        <description>&lt;p&gt;&lt;img src=&quot;../assets/images/O_Radix.png&quot; alt=&quot;O_Radix.png&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/O_Radix.png&quot; class=&quot;drawing&quot; style=&quot;width: 30%;&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;day-3-antiphon&quot;&gt;Day 3 Antiphon&lt;/h3&gt;
 
@@ -262,22 +446,47 @@ Shall come to thee, O Israel! &lt;br /&gt;
 &lt;p&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/_VvmuyhbIUQ?si=0Ul7Gl4uHiGlLdCU&amp;amp;start=82&amp;amp;end=172&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;
+
+### Isaiah 11:1
+
+But a shoot shall sprout from the stump of Jesse, and from his roots a bud shall blossom.
+
+### Isaiah 11:10
+
+On that day, the root of Jesse, set up as a signal for the peoples - Him the nations will seek out; His dwelling shall be glorious.
+
+### Romans 15:12
+
+And again Isaiah says:&lt;br /&gt;
+&quot;The root of Jesse shall come, raised up to rule the Gentiles; in him shall the Gentiles hope.&quot;
+
+### Isaiah 52:15
+
+So shall he startle many nations, kings shall stand speechless;&lt;br /&gt;
+
+For those who have not been told shall see, those who have not heard shall ponder it.
+
+### Habakkuk 2:3
+
+For the vision is a witness for the appointed time, a testimony to the end; it will not disappoint.&lt;br /&gt;
+
+If it delays, wait for it,&lt;br /&gt;
+
+it will surely come, it will not be late.
+
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 19 Nov 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/day%203/magnificat/2023/11/19/Radix-RootJesse.html</link>
-        <guid isPermaLink="true">http://localhost:4000/day%203/magnificat/2023/11/19/Radix-RootJesse.html</guid>
+        <link>http://localhost:4000/2023/11/19/Radix-RootJesse.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/11/19/Radix-RootJesse.html</guid>
         
-        
-        <category>Day 3</category>
-        
-        <category>Magnificat</category>
         
       </item>
     
       <item>
         <title>O Adonai</title>
-        <description>&lt;p&gt;&lt;img src=&quot;../assets/images/O_Adonai.png&quot; alt=&quot;O_Adonai.png&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/O_Adonai.png&quot; class=&quot;drawing&quot; style=&quot;width: 30%;&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;day-2-antiphon&quot;&gt;Day 2 Antiphon&lt;/h3&gt;
 
@@ -287,7 +496,7 @@ come to rescue us with your mighty power!&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;traditional&quot;&gt;Traditional&lt;/h3&gt;
 
-&lt;p&gt;O Adonai and Leader of the house of Israel, who appeared to Moses in the flames of the burning bush and gave him the law on Sinai: come and redeem us with outstretched arm.&lt;/p&gt;
+&lt;p&gt;O Adonai and Leader of the House of Israel, who appeared to Moses in the flames of the burning bush and gave him the law on Sinai: come and redeem us with outstretched arm.&lt;/p&gt;
 
 &lt;h3 id=&quot;latin-o-adonai&quot;&gt;Latin: O Adonai&lt;/h3&gt;
 
@@ -304,118 +513,52 @@ Rejoice! Rejoice! Emmanuel &lt;br /&gt;
 Shall come to thee, O Israel! &lt;br /&gt;
 
 &lt;p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/4_GX0HG8aBQ?si=heYzDTctQ0sQ-Sgk&amp;amp;start=142&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;div&gt;
+      &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/4_GX0HG8aBQ?si=heYzDTctQ0sQ-Sgk&amp;amp;start=142&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
+      &lt;h3 id=&quot;exodus-32&quot;&gt;Exodus 3:2&lt;/h3&gt;
 
+      &lt;p&gt;There the angel of the LORD* appeared to him as fire flaming out of a bush.a When he looked, although the bush was on fire, it was not being consumed.&lt;/p&gt;
+
+      &lt;h3 id=&quot;exodus-66&quot;&gt;Exodus 6:6&lt;/h3&gt;
+
+      &lt;p&gt;Therefore, say to the Israelites: I am the LORD. I will free you from the burdens of the Egyptians and will deliver you from their slavery. I will redeem you by my outstretched arm and with mighty acts of judgment.&lt;/p&gt;
+
+      &lt;h3 id=&quot;jeremiah-3221&quot;&gt;Jeremiah 32:21&lt;/h3&gt;
+
+      &lt;p&gt;You brought your people Israel out of the land of Egypt with signs and wonders, with a strong hand and an outstretched arm, and great terror.&lt;/p&gt;
+
+      &lt;h3 id=&quot;matthew-26&quot;&gt;Matthew 2:6&lt;/h3&gt;
+
+      &lt;p&gt;‘And you, Bethlehem, land of Judah,&lt;br /&gt;&lt;/p&gt;
+
+      &lt;p&gt;are by no means least among the rulers of Judah;&lt;br /&gt;&lt;/p&gt;
+
+      &lt;p&gt;since from you shall come a ruler,&lt;br /&gt;&lt;/p&gt;
+
+      &lt;p&gt;who is to shepherd my people Israel.’&lt;br /&gt;&lt;/p&gt;
+
+      &lt;h3 id=&quot;micah-51&quot;&gt;Micah 5:1&lt;/h3&gt;
+
+      &lt;p&gt;But you, Bethlehem-Ephrathaha&lt;br /&gt;&lt;/p&gt;
+
+      &lt;p&gt;least among the clans of Judah,&lt;br /&gt;&lt;/p&gt;
+
+      &lt;p&gt;From you shall come forth for me&lt;br /&gt;&lt;/p&gt;
+
+      &lt;p&gt;one who is to be ruler in Israel;&lt;br /&gt;&lt;/p&gt;
+
+      &lt;p&gt;Whose origin is from of old,&lt;br /&gt;&lt;/p&gt;
+
+      &lt;p&gt;from ancient times.&lt;br /&gt;&lt;/p&gt;
+
+    &lt;/div&gt;
 &lt;/p&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 18 Nov 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/day%202/magnificat/2023/11/18/Adonai-Leader.html</link>
-        <guid isPermaLink="true">http://localhost:4000/day%202/magnificat/2023/11/18/Adonai-Leader.html</guid>
+        <link>http://localhost:4000/2023/11/18/Adonai-Leader.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/11/18/Adonai-Leader.html</guid>
         
-        
-        <category>Day 2</category>
-        
-        <category>Magnificat</category>
-        
-      </item>
-    
-      <item>
-        <title>O Wisdom</title>
-        <description>&lt;p&gt;&lt;img src=&quot;../assets/images/O_Sapientia.png&quot; alt=&quot;O_Sapientia.png&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;day-1-antiphon&quot;&gt;Day 1 Antiphon&lt;/h3&gt;
-
-&lt;p&gt;O Wisdom of our God Most High,&lt;br /&gt;
-guiding creation with power and love:&lt;br /&gt;
-come to teach us the path of knowledge!&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;traditional&quot;&gt;Traditional&lt;/h3&gt;
-
-&lt;p&gt;O Wisdom, coming forth from the mouth of the Most High, reaching from end to end, mightily and sweetly ordering all things: come and teach us the way of prudence.&lt;/p&gt;
-
-&lt;h3 id=&quot;latin-o-sapientia&quot;&gt;Latin: O Sapientia&lt;/h3&gt;
-
-&lt;p&gt;O Sapientia, quae ex ore Altissimi prodiisti, attingens a fine usque ad finem, fortiter suaviterque disponens omnia: veni ad docendum nos viam prudentiae.&lt;/p&gt;
-
-&lt;h3 id=&quot;hymn&quot;&gt;Hymn&lt;/h3&gt;
-
-&lt;p&gt;O come, thou Wisdom from on high, &lt;br /&gt;
-Who orders all things mightily; &lt;br /&gt;
-To us the path of knowledge show, &lt;br /&gt;
-And teach us in her ways to go. &lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;
-Rejoice! Rejoice! Emmanuel &lt;br /&gt;
-Shall come to thee, O Israel! &lt;br /&gt;
-
-&lt;p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Ley1aOPDHCE?si=3uX-RX3AJSqeBKIn&amp;amp;start=72&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-
-
-
-
-&lt;/p&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 17 Nov 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/day%201/magnificat/2023/11/17/Sapientia_Wisdom.html</link>
-        <guid isPermaLink="true">http://localhost:4000/day%201/magnificat/2023/11/17/Sapientia_Wisdom.html</guid>
-        
-        
-        <category>Day 1</category>
-        
-        <category>Magnificat</category>
-        
-      </item>
-    
-      <item>
-        <title>The Magnificat</title>
-        <description>&lt;p&gt;&lt;img src=&quot;../assets/images/mary-magnificat.jpg&quot; alt=&quot;mary-magnificat.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;
-My soul proclaims the greatness of the Lord, &lt;br /&gt;
-my spirit rejoices in God my Savior, &lt;br /&gt;
-for he has looked with favor on his lowly servant. &lt;br /&gt;
-From this day all generations will call me blessed: &lt;br /&gt;
-the Almighty has done great things for me, &lt;br /&gt;
-and holy is his Name. &lt;br /&gt;
-He has mercy on those who fear him  &lt;br /&gt;
-in every generation. &lt;br /&gt;
-He has shown the strength of his arm, &lt;br /&gt;
-he has scattered the proud in their conceit. &lt;br /&gt;
-He has cast down the mighty from their thrones, &lt;br /&gt;
-and has lifted up the lowly. &lt;br /&gt;
-He has filled the hungry with good things, &lt;br /&gt;
-and the rich he has sent away empty. &lt;br /&gt;
-He has come to the help of his servant Israel &lt;br /&gt;
-for he has remembered his promise of mercy, &lt;br /&gt;
-the promise he made to our fathers, &lt;br /&gt;
-to Abraham and his children forever. &lt;br /&gt;
-&lt;p&gt;
-Glory to the Father and to the Son and to the Holy Spirit, &lt;br /&gt;
-as it was in the beginning, is now, and will be forever. Amen. &lt;br /&gt;
-&lt;/p&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 16 Nov 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/magnificat/day%201/day%202/day%203/day%204/day%205/day%206/day%207/2023/11/16/Magnificat.html</link>
-        <guid isPermaLink="true">http://localhost:4000/magnificat/day%201/day%202/day%203/day%204/day%205/day%206/day%207/2023/11/16/Magnificat.html</guid>
-        
-        
-        <category>Magnificat</category>
-        
-        <category>Day 1</category>
-        
-        <category>Day 2</category>
-        
-        <category>Day 3</category>
-        
-        <category>Day 4</category>
-        
-        <category>Day 5</category>
-        
-        <category>Day 6</category>
-        
-        <category>Day 7</category>
         
       </item>
     
