@@ -8,21 +8,18 @@ plugins:
 exclude:
   - "/vendor/"
   - "/template/"
-  - "/ASIG Drafts/.obsidian/"
-  - "/ASIG Drafts/"
 
 # Site settings
-title: Studies in Gravity
-subtitle: "On carrying loss as a student"
+title: O Antiphons
 email: rmvwills@gmail.com
 name: Rose Wills
 description: >
-  A blog about dealing with grief and loss as a student.
+  This is the home page for the O Antiphons traditionally prayed on the evenings of the week leading up to Christmas (Dec. 17-23). One verse per night is prayed/sung before and after the Magnificat during evening Vespers.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://rosewills.github.io/closetohome" # the base hostname & protocol for your site
+url: "http://rosewills.github.io/o-antiphons" # the base hostname & protocol for your site
 cover: ""
 acover: ""	# /assets/art/windowsill.png
 bcover: ""
@@ -52,25 +49,6 @@ jekyll-archives:
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
 
-# Category descriptions (for archive pages)
-descriptions:
-  - cat: General
-    desc: "Posts about overall wellness as a grieving student."
-
-  - cat: Grief
-    desc: "On grief as it relates to student life."
-
-  - cat: Anxiety
-    desc: "Managing stress, anxiety, and/or anxiety disorders."
-
-  - cat: Depression
-    desc: "Managing depression as a student."
-
-  - cat: Essays
-    desc: "Personal and/or formal pieces on grief and loss from a student perspective."
-    
-  - cat: Trauma
-    desc: "On the impacts of post-traumatic stress."
 
 # Social icons and sharing options
 #
