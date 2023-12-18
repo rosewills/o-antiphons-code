@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/2023/11/18/Adonai-Leader.html</loc>
-<lastmod>2023-11-18T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/2023/11/19/Radix-RootJesse.html</loc>
-<lastmod>2023-11-19T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/2023/11/20/Clavis-Key-of-David.html</loc>
-<lastmod>2023-11-20T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/2023/11/21/Oriens-Dayspring.html</loc>
-<lastmod>2023-11-21T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/2023/11/22/Rex-Desire.html</loc>
-<lastmod>2023-11-22T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/2023/11/23/Emmanuel.html</loc>
-<lastmod>2023-11-23T00:00:00-05:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/2023/12/16/Magnificat.html</loc>
 <lastmod>2023-12-16T00:00:00-05:00</lastmod>
 </url>
@@ -40,8 +16,5 @@
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/page2/</loc>
 </url>
 </urlset>
