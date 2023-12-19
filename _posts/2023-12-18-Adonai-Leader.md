@@ -36,7 +36,7 @@ Shall come to thee, O Israel! <br>
 
 ### Exodus 3:2
 
-There the angel of the LORD appeared to him as fire flaming out of a bush.a When he looked, although the bush was on fire, it was not being consumed. 
+There the angel of the LORD appeared to him as fire flaming out of a bush. When he looked, although the bush was on fire, it was not being consumed. 
 
 ### Exodus 6:6
 
