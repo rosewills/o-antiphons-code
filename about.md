@@ -7,7 +7,7 @@ permalink: /about/
 
 This is the home page for the O Antiphons traditionally prayed on the evenings of the week leading up to Christmas (Dec. 17-23). One verse per night is prayed/sung before and after the Magnificat during evening Vespers.
 
-The O Antiphons are traditionally prayed on the evenings of the week leading up to Christmas (Dec. 17-23). One verse per night is prayed/sung before and after the Magnificat during evening Vespers. Each O Antiphon calls to God in one of the titles of Christ, describing what He means to us and inviting Him to come! These were written in the early Middle Ages and are grounded in the prophecies of Isaih and many other verses throughout scripture.
+Each O Antiphon calls to God in one of the titles of Christ, describing what He means to us and inviting Him to come! These were written in the early Middle Ages and are grounded in the prophecies of Isaiah and many other verses throughout scripture.
 
 Each post gives the O Antiphon in multiple forms:
 
