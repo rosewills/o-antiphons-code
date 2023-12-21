@@ -31,75 +31,55 @@ Rejoice! Rejoice! Emmanuel <br>
 Shall come to you, O Israel. <br>
 <p>
 
+<div markdown="1">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BilDhIeNrgU?si=LtveiUSbq53Q_dQ7&amp;start=84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<p>
-<i>(This version is so beautiful, I couldn't cut it off, so it goes into the next antiphon.) </i>
 
-<p>
+*(This version is so beautiful, I couldn't cut it off, so it goes into the next antiphon.)*
 
-<b>Homily from Mass in the Longest Night</b> (21 December 2022)
-
-<p>
+#### Homily from Mass in the Longest Night (21 December 2022)
+<div markdown="1">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wChcSctWNcE?si=W9Mqmv_7S_lug1Eo&amp;start=606&end=940" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<p>
 
 ### Isaiah 9:1-2
 
 The people who walked in darkness <br>
-
 have seen a great light; <br>
-
 Upon those who lived in a land of gloom <br>
-
 a light has shone. <br>
-
 You have brought them abundant joy <br>
-
 and great rejoicing. <br>
 
 ### John 1:5
 
 The light shines in the darkness, <br>
-
 and the darkness has not overcome it. <br>
 
 
 ### Canticle of Zechariah (Luke 1:78-79)
 
 In the tender mercy of our God <br>
-
 the dawn from on high shall break upon us, <br>
-
 to shine on those who dwell in darkness and the shadow of death, <br>
-
 to guide our feet into the way of peace. <br>
 
 ### Psalm 23:4
 
 Even though I walk through the valley of the shadow of death, <br>
-
 I will fear no evil, for you are with me; <br>
-
 your rod and your staff comfort me. <br>
 
 ### Malachi 3:20
 
 But for you who fear my name, the Sun of Justice <br>
-
 will arise with healing in its wings; <br>
-
 And you will go out leaping like calves from the stall. <br>
 
 
 ### Creator of the Stars of Night
 
 Come in your holy might, we pray, <br>
-
 Redeem us for eternal day; <br>
-
 Defend us while we dwell below <br>
-
 From all assaults of our dread foe. <br>
 
 <p>
