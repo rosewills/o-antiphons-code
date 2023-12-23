@@ -8,6 +8,10 @@ homelink: true
 		<div class="scrim {% if site.cover %}has-cover{% endif %}">
 			<table class="row">
 				<tr>
+					
+					<td style="overflow: hidden; position: relative;" class="headerimg">
+						<!-- <center><img src="{{ site.acover | prepend: site.baseurl }}" class="headerimg"></center> -->
+					</td>
 
 					<td>
 						<header class="site-header">
@@ -35,12 +39,8 @@ homelink: true
 						</header>
 					</td>
 
-					<td style="overflow: hidden; position: relative;">
-						<center><img src="{{ site.acover | prepend: site.baseurl }}" class="headerimg"></center>
-					</td>
-
-					<td style="overflow: hidden; position: relative;">
-						<center><img src="{{ site.bcover | prepend: site.baseurl }}" class="headerimg"></center>
+					<td style="overflow: hidden; position: relative;" class="headerimg">
+						<!-- <center><img src="{{ site.bcover | prepend: site.baseurl }}" class="headerimg"></center> -->
 					</td>
 
 				</tr>

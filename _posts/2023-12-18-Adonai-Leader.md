@@ -49,25 +49,17 @@ You brought your people Israel out of the land of Egypt with signs and wonders, 
 ### Matthew 2:6
 
 'And you, Bethlehem, land of Judah,<br>
-
 are by no means least among the rulers of Judah;<br>
-
 since from you shall come a ruler,<br>
-
 who is to shepherd my people Israel.'<br>
 
 ### Micah 5:1
 
 But you, Bethlehem-Ephrathaha<br>
-
 least among the clans of Judah,<br>
-
 From you shall come forth for me<br>
-
 one who is to be ruler in Israel;<br>
-
 Whose origin is from of old,<br>
-
 from ancient times.<br>
 
 </div>

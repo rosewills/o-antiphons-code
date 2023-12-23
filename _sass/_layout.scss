@@ -151,7 +151,7 @@ Margin-left: auto;
 	white-space: nowrap;
 	&.has-cover {
 		color: #ffffff;
-		text-shadow: 0 2px 1px rgba(0,0,0,.2) !important;
+		text-shadow: 1px 1px 5px rgba(0, 0, 0, 1) !important;
 		background-position: 50% 50%;
 		background-size: cover;
 		background-repeat: no-repeat;
@@ -190,7 +190,7 @@ Margin-left: auto;
 			display: table;
 			width: 100%;
 			clear: both;
-			color: $black;
+			color: $white;
 			margin: 0px;
 			border-collapse: collapse;
 			padding: 0px;
@@ -560,7 +560,8 @@ Margin-left: auto;
   li.nav-link {
   	a {
 	    display: inline-block;
-		color: $black;
+		color: $white;
+		text-shadow: 1px 1px 5px rgba(0, 0, 0, 1) !important;
 	    @include media ($tablet) {
 	      padding-right: 1.5em;
 	    }
@@ -610,7 +611,7 @@ Margin-left: auto;
 
 .page-content {
 	.wrapper {
-		background-color: $white;
+		background-color: $white;	// rgb(14 57 198 / 62%), rgba(23, 17, 106, 0.55);
 		@include outer-container;
 		padding: 1em;
 	}
