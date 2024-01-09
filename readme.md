@@ -6,6 +6,6 @@ This is a blog-style site, with one devotional posted per day during the week le
 
 
 ### Credits
-Daily devotionals written by Dr. Linda Wills ([@lmwills](https://github.com/lmwills)). Website developed by [Rose Wills](rosewills.github.io) ([@rosewills](https://github.com/rosewills)).
+Daily devotionals written by Dr. Linda Wills ([@lmwills](https://github.com/lmwills)). Website developed by Rose Wills ([@rosewills](https://github.com/rosewills)).
 
 *This site's design was derived from the [Centrarium theme](https://github.com/bencentra/centrarium) by [Ben Centra](http://bencentra.com), built using [Jeykll](https://jekyllrb.com), and hosted via Github Pages.*
