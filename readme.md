@@ -1,8 +1,8 @@
 # O Antiphons (Advent 2023)
 
-This is a daily devotional webpage featuring the O Antiphons: short prayers traditionally prayed on the evenings of the week leading up to Christmas (Dec. 17-23). They are typically set to music; you may recognize them as lyrics from the Advent hymn "O Come, O Come, Emmanuel." 
+This is a daily devotional webpage featuring the O Antiphons - short prayers traditionally prayed on the evenings of the week leading up to Christmas (Dec. 17-23). They are typically set to music, and you may recognize them as lyrics from the Advent hymn "O Come, O Come, Emmanuel." 
 
-The O Antiphons date back to the 6th century, and today they are prayed and sung in various forms across all Christian denominations.
+The O Antiphons date back to the 6th century. Today they are prayed and sung in various forms across all Christian denominations.
 
 This site is organized in a blog format, with one devotional posted per day during the week leading up to Christmas.
 
