@@ -4,11 +4,124 @@
   {% include head.html %}
 
   <body>
-
     <div class="page-content">
-        {{ content }}
-    </div>
+      <div class="home">
 
+        <div class="site-header-container {% if site.cover %}has-cover{% endif %}" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }}); overflow: hidden;"{% endif %}>
+          <div class="scrim {% if site.cover %}has-cover{% endif %}">
+            <table class="row">
+              <tr>
+                
+                <td style="overflow: hidden; position: relative;" class="headerimg">
+                  <!-- <center><img src="{{ site.acover | prepend: site.baseurl }}" class="headerimg"></center> -->
+                </td>
+      
+                <td>
+                  <header class="site-header">
+                    <center><h1 class="title" style="padding: 0px 0px;">{{ site.title }}</h1>
+                      {% if site.subtitle %}<p class="subtitle" style="padding: 0px 0px;">{{ site.subtitle }}</p>{% endif %}</center>
+      
+                    <!-- NAVIGATION -->
+                    <center>
+                      <header class="navigation" role="banner">
+                        <div class="navigation-wrapper">
+                          <nav role="navigation" style="float: none;">
+                            <ul class="navigation-menu show">
+                              {% for page in site.pages %}
+                                {% if page.title and page.main_nav != false %}
+                                  {% if page.headerlink == true %}
+                                    <li class="nav-link"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                                  {% endif %}
+                                {% endif %}
+                              {% endfor %}
+                            </ul>
+                          </nav>
+                        </div>
+                      </header>
+                    </center>
+                  </header>
+                </td>
+      
+                <td style="overflow: hidden; position: relative;" class="headerimg">
+                  <!-- <center><img src="{{ site.bcover | prepend: site.baseurl }}" class="headerimg"></center> -->
+                </td>
+      
+              </tr>
+            </table>
+          </div>
+        </div>
+      </div>
+      
+      <div class="wrapper">
+        {{ content }}
+        <ul class="post-list">
+          {% for post in site.posts reversed %}
+            <li>
+              {% if post.preview %}
+              <img src="{{ post.preview }}" class="preview">
+              {% elsif post.cover %}
+              <img src="{{ post.cover }}" class="preview">
+              {% endif %}
+              <h2>
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+              </h2>
+              <section class="post-excerpt" itemprop="description">
+                <p>{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | truncatewords: 25 }}{% endif %}</p>
+              </section>
+              <section class="post-meta">
+                <div class="post-date">{{ post.date | date: "%B %-d" }}</div>
+              </section>
+            </li>
+            {% if forloop.last == false %}
+            <hr>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      
+        <nav class="pagination" role="navigation">
+          <p>
+            {% if paginator.previous_page %}
+            {% if paginator.page == 2 %}
+            <a class="newer-posts" href="{% if site.baseurl %}{{ site.baseurl }}{% endif %}/">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-square fa-stack-2x"></i>
+                <i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+            {% else %}
+            <a class="newer-posts" href="{{ site.baseurl }}/page{{paginator.previous_page}}">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-square fa-stack-2x"></i>
+                <i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+            {% endif %}
+            {% else %}
+            <span class="fa-stack fa-lg">
+              <i class="fa fa-square fa-stack-2x"></i>
+              <i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
+            </span>
+            {% endif %}
+            <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+            {% if paginator.next_page %}
+            <a class="newer-posts" href="{{ site.baseurl }}/page{{paginator.next_page}}">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-square fa-stack-2x"></i>
+                <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+            {% else %}
+            <span class="fa-stack fa-lg">
+              <i class="fa fa-square fa-stack-2x"></i>
+              <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
+            </span>
+            {% endif %}
+          </p>
+        </nav>
+      
+      </div>
+    </div>
+      
     {% include footer.html %}
 
   </body>
