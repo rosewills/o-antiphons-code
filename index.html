@@ -66,7 +66,7 @@ homelink: true
 				<p>{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | truncatewords: 25 }}{% endif %}</p>
 			</section>
 			<section class="post-meta">
-				<div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
+				<div class="post-date">{{ post.date | date: "%B %-d" }}</div>
 			</section>
 		</li>
 		{% if forloop.last == false %}
